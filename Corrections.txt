@@ -1,5 +1,7 @@
 Corrections Module 8 Boo the Dog
 
+HTML
+
 19	 <!--missing h1 tag -->		<h1>	Boo The Dog Fan Page!
 					</h1> 
 
@@ -25,4 +27,18 @@ Corrections Module 8 Boo the Dog
 	
 143		<!--wrong source for js file-->
 
-					
+JAVASCRIPT
+
+// Array items missing ""
+6
+
+//"pink" desegnation missing ""
+9
+
+
+// click Method Missing ""
+21
+
+// click Method Missing ""
+25	
+
